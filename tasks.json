@@ -1,0 +1,7 @@
+[
+    { "id": 1, "title": "Покормить кошек", "done": false },
+    { "id": 2, "title": "Покормить собак", "done": false },
+    { "id": 3, "title": "Покормить грызунов", "done": false },
+    { "id": 4, "title": "Есть самому", "done": false },
+    { "id": 5, "title": "Не забывать мыться", "done": false }
+  ]
